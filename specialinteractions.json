@@ -1,0 +1,11 @@
+{
+  "smokey": {
+    "handle": "@SmokeyTheBera",
+    "topics": ["partnership","perfect match", "collaboration"],
+    "templates": [
+      "Can I take you out to a nice romantic dinner?",
+      "The community thought you had that big willy energy were they wrong?"
+    ],
+    "probability": 0.15
+  }
+}

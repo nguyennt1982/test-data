@@ -3,6 +3,9 @@
   "clients": [],
   "modelProvider": "openai",
   "settings": {
+    "voice": {
+        "model": "en_US-male-medium"
+    },
     "model": "gpt-4o"
   },    
   "people": [],
