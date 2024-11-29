@@ -1,6 +1,6 @@
 {
   "name": "elchabera",
-  "clients": "twwitter",
+  "clients": [],
   "modelProvider": "openai",
   "settings": {
     "model": "gpt-4o"
